@@ -1,0 +1,1161 @@
+configuracao carregada. versão da simulação: 0.1
+reconhecendo um paciente em ciclo/tempo 0
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Enrico Ferreira
+idade: 100
+endereço: Avenida Theo Silveira, 35
+Barão Homem De Melo 1ª Seção
+16954-304 Viana / RJ
+tipo de sangue: A+
+histórico médico: []
+alergias conhecidas: []
+verificando situacao de emergencia em ciclo/tempo 0
+verificando liberacao de paciente em ciclo/tempo 0
+paciente Enrico Ferreira sendo liberado
+reconhecendo um paciente em ciclo/tempo 150
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Bianca Aragão
+idade: 71
+endereço: Recanto Silveira
+Dom Joaquim
+74643-243 Castro / PE
+tipo de sangue: AB-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 150
+paciente Bianca Aragão sendo liberado
+reconhecendo um paciente em ciclo/tempo 300
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Sr. Davi Lucca Ferreira
+idade: 75
+endereço: Vale Costa, 12
+Vila Petropolis
+58088979 Viana / PI
+tipo de sangue: O+
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 300
+paciente Sr. Davi Lucca Ferreira sendo liberado
+reconhecendo um paciente em ciclo/tempo 450
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+reconhecendo um paciente em ciclo/tempo 600
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Agatha Monteiro
+idade: 45
+endereço: Viela Almeida, 68
+Lagoa
+96444137 Barbosa das Flores / PE
+tipo de sangue: B-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 600
+paciente Agatha Monteiro sendo liberado
+reconhecendo um paciente em ciclo/tempo 750
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Bruno Azevedo
+idade: 25
+endereço: Lago Luiz Gustavo Barbosa, 21
+Copacabana
+46294994 Moraes do Galho / SE
+tipo de sangue: O-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 750
+paciente Bruno Azevedo sendo liberado
+reconhecendo um paciente em ciclo/tempo 900
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Noah Alves
+idade: 15
+endereço: Vereda Cunha, 22
+Pilar
+28887562 Campos das Flores / AL
+tipo de sangue: B-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 900
+verificando situacao de emergencia em ciclo/tempo 900
+paciente Noah Alves em situacao de emergencia
+verificando disponibilidade de sangue em ciclo/tempo 900
+não tem sangue do tipo B- para o paciente Noah Alves
+verificando necessidade de UTI em ciclo/tempo 900
+verificando necessidade de UTI em ciclo/tempo 901
+verificando necessidade de UTI em ciclo/tempo 902
+verificando necessidade de UTI em ciclo/tempo 903
+verificando necessidade de UTI em ciclo/tempo 904
+verificando necessidade de UTI em ciclo/tempo 905
+verificando necessidade de UTI em ciclo/tempo 906
+verificando necessidade de UTI em ciclo/tempo 907
+verificando necessidade de UTI em ciclo/tempo 908
+verificando necessidade de UTI em ciclo/tempo 909
+verificando necessidade de UTI em ciclo/tempo 910
+verificando necessidade de UTI em ciclo/tempo 911
+verificando necessidade de UTI em ciclo/tempo 912
+verificando necessidade de UTI em ciclo/tempo 913
+verificando necessidade de UTI em ciclo/tempo 914
+verificando necessidade de UTI em ciclo/tempo 915
+verificando necessidade de UTI em ciclo/tempo 916
+verificando necessidade de UTI em ciclo/tempo 917
+verificando necessidade de UTI em ciclo/tempo 918
+verificando necessidade de UTI em ciclo/tempo 919
+verificando necessidade de UTI em ciclo/tempo 920
+verificando necessidade de UTI em ciclo/tempo 921
+verificando necessidade de UTI em ciclo/tempo 922
+verificando necessidade de UTI em ciclo/tempo 923
+verificando necessidade de UTI em ciclo/tempo 924
+verificando necessidade de UTI em ciclo/tempo 925
+verificando necessidade de UTI em ciclo/tempo 926
+verificando necessidade de UTI em ciclo/tempo 927
+verificando necessidade de UTI em ciclo/tempo 928
+verificando necessidade de UTI em ciclo/tempo 929
+verificando necessidade de UTI em ciclo/tempo 930
+verificando necessidade de UTI em ciclo/tempo 931
+verificando necessidade de UTI em ciclo/tempo 932
+verificando necessidade de UTI em ciclo/tempo 933
+verificando necessidade de UTI em ciclo/tempo 934
+verificando necessidade de UTI em ciclo/tempo 935
+verificando necessidade de UTI em ciclo/tempo 936
+verificando necessidade de UTI em ciclo/tempo 937
+verificando necessidade de UTI em ciclo/tempo 938
+verificando necessidade de UTI em ciclo/tempo 939
+verificando necessidade de UTI em ciclo/tempo 940
+verificando necessidade de UTI em ciclo/tempo 941
+verificando necessidade de UTI em ciclo/tempo 942
+verificando necessidade de UTI em ciclo/tempo 943
+verificando necessidade de UTI em ciclo/tempo 944
+verificando necessidade de UTI em ciclo/tempo 945
+verificando necessidade de UTI em ciclo/tempo 946
+verificando necessidade de UTI em ciclo/tempo 947
+verificando necessidade de UTI em ciclo/tempo 948
+verificando necessidade de UTI em ciclo/tempo 949
+verificando necessidade de UTI em ciclo/tempo 950
+verificando necessidade de UTI em ciclo/tempo 951
+verificando necessidade de UTI em ciclo/tempo 952
+verificando necessidade de UTI em ciclo/tempo 953
+verificando necessidade de UTI em ciclo/tempo 954
+paciente Noah Alves necessita de UTI
+verificando liberacao de leito na UTI em ciclo/tempo 954
+paciente Noah Alves sendo liberado da UTI
+reconhecendo um paciente em ciclo/tempo 1050
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Vitor Gabriel Jesus
+idade: 9
+endereço: Recanto Alves, 89
+Prado
+88586-402 Dias Paulista / MG
+tipo de sangue: AB+
+histórico médico: []
+alergias conhecidas: []
+verificando situacao de emergencia em ciclo/tempo 1050
+paciente Vitor Gabriel Jesus em situacao de emergencia
+verificando disponibilidade de sangue em ciclo/tempo 1050
+tem sangue do tipo AB+ para o paciente Vitor Gabriel Jesus
+verificando necessidade de UTI em ciclo/tempo 1051
+verificando necessidade de UTI em ciclo/tempo 1052
+verificando necessidade de UTI em ciclo/tempo 1053
+verificando necessidade de UTI em ciclo/tempo 1054
+verificando necessidade de UTI em ciclo/tempo 1055
+verificando necessidade de UTI em ciclo/tempo 1056
+paciente Vitor Gabriel Jesus necessita de UTI
+reconhecendo um paciente em ciclo/tempo 1200
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+reconhecendo um paciente em ciclo/tempo 1350
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Ana Duarte
+idade: 97
+endereço: Morro da Rosa, 9
+Confisco
+80250157 Cavalcanti Grande / DF
+tipo de sangue: AB+
+histórico médico: []
+alergias conhecidas: []
+verificando situacao de emergencia em ciclo/tempo 1350
+paciente Ana Duarte em situacao de emergencia
+verificando disponibilidade de sangue em ciclo/tempo 1350
+tem sangue do tipo AB+ para o paciente Ana Duarte
+verificando necessidade de UTI em ciclo/tempo 1351
+verificando necessidade de UTI em ciclo/tempo 1352
+verificando necessidade de UTI em ciclo/tempo 1353
+verificando necessidade de UTI em ciclo/tempo 1354
+verificando necessidade de UTI em ciclo/tempo 1355
+verificando necessidade de UTI em ciclo/tempo 1356
+verificando necessidade de UTI em ciclo/tempo 1357
+verificando necessidade de UTI em ciclo/tempo 1358
+verificando necessidade de UTI em ciclo/tempo 1359
+verificando necessidade de UTI em ciclo/tempo 1360
+verificando necessidade de UTI em ciclo/tempo 1361
+verificando necessidade de UTI em ciclo/tempo 1362
+verificando necessidade de UTI em ciclo/tempo 1363
+verificando necessidade de UTI em ciclo/tempo 1364
+verificando necessidade de UTI em ciclo/tempo 1365
+verificando necessidade de UTI em ciclo/tempo 1366
+verificando necessidade de UTI em ciclo/tempo 1367
+verificando necessidade de UTI em ciclo/tempo 1368
+verificando necessidade de UTI em ciclo/tempo 1369
+verificando necessidade de UTI em ciclo/tempo 1370
+verificando necessidade de UTI em ciclo/tempo 1371
+verificando necessidade de UTI em ciclo/tempo 1372
+verificando necessidade de UTI em ciclo/tempo 1373
+verificando necessidade de UTI em ciclo/tempo 1374
+verificando necessidade de UTI em ciclo/tempo 1375
+verificando necessidade de UTI em ciclo/tempo 1376
+verificando necessidade de UTI em ciclo/tempo 1377
+verificando necessidade de UTI em ciclo/tempo 1378
+verificando necessidade de UTI em ciclo/tempo 1379
+verificando necessidade de UTI em ciclo/tempo 1380
+verificando necessidade de UTI em ciclo/tempo 1381
+verificando necessidade de UTI em ciclo/tempo 1382
+verificando necessidade de UTI em ciclo/tempo 1383
+verificando necessidade de UTI em ciclo/tempo 1384
+verificando necessidade de UTI em ciclo/tempo 1385
+verificando necessidade de UTI em ciclo/tempo 1386
+verificando necessidade de UTI em ciclo/tempo 1387
+verificando necessidade de UTI em ciclo/tempo 1388
+verificando necessidade de UTI em ciclo/tempo 1389
+verificando necessidade de UTI em ciclo/tempo 1390
+verificando necessidade de UTI em ciclo/tempo 1391
+verificando necessidade de UTI em ciclo/tempo 1392
+verificando necessidade de UTI em ciclo/tempo 1393
+verificando necessidade de UTI em ciclo/tempo 1394
+verificando necessidade de UTI em ciclo/tempo 1395
+verificando necessidade de UTI em ciclo/tempo 1396
+verificando necessidade de UTI em ciclo/tempo 1397
+verificando necessidade de UTI em ciclo/tempo 1398
+verificando necessidade de UTI em ciclo/tempo 1399
+verificando necessidade de UTI em ciclo/tempo 1400
+verificando necessidade de UTI em ciclo/tempo 1401
+verificando necessidade de UTI em ciclo/tempo 1402
+verificando necessidade de UTI em ciclo/tempo 1403
+verificando necessidade de UTI em ciclo/tempo 1404
+verificando necessidade de UTI em ciclo/tempo 1405
+verificando necessidade de UTI em ciclo/tempo 1406
+verificando necessidade de UTI em ciclo/tempo 1407
+verificando necessidade de UTI em ciclo/tempo 1408
+verificando necessidade de UTI em ciclo/tempo 1409
+verificando disponibilidade de sangue em ciclo/tempo 1410
+verificando necessidade de UTI em ciclo/tempo 1410
+verificando disponibilidade de sangue em ciclo/tempo 1411
+verificando necessidade de UTI em ciclo/tempo 1411
+verificando disponibilidade de sangue em ciclo/tempo 1412
+verificando necessidade de UTI em ciclo/tempo 1412
+verificando disponibilidade de sangue em ciclo/tempo 1413
+verificando necessidade de UTI em ciclo/tempo 1413
+verificando disponibilidade de sangue em ciclo/tempo 1414
+verificando necessidade de UTI em ciclo/tempo 1414
+paciente Ana Duarte necessita de UTI
+verificando liberacao de leito na UTI em ciclo/tempo 1454
+verificando liberacao de leito na UTI em ciclo/tempo 1455
+verificando liberacao de leito na UTI em ciclo/tempo 1456
+verificando liberacao de leito na UTI em ciclo/tempo 1457
+verificando liberacao de leito na UTI em ciclo/tempo 1458
+verificando liberacao de leito na UTI em ciclo/tempo 1459
+paciente Vitor Gabriel Jesus sendo liberado da UTI
+paciente Ana Duarte sendo liberado da UTI
+reconhecendo um paciente em ciclo/tempo 1500
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Danilo Lima
+idade: 49
+endereço: Vila de Barros, 90
+Granja Werneck
+73043-607 Martins / CE
+tipo de sangue: B-
+histórico médico: []
+alergias conhecidas: []
+verificando situacao de emergencia em ciclo/tempo 1500
+verificando liberacao de paciente em ciclo/tempo 1500
+paciente Danilo Lima sendo liberado
+reconhecendo um paciente em ciclo/tempo 1650
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+reconhecendo um paciente em ciclo/tempo 1800
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Maria Fernanda das Neves
+idade: 3
+endereço: Via de Costela, 30
+Buritis
+49133-895 Porto / MG
+tipo de sangue: B+
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 1800
+verificando situacao de emergencia em ciclo/tempo 1800
+verificando liberacao de paciente em ciclo/tempo 1801
+paciente Maria Fernanda das Neves sendo liberado
+reconhecendo um paciente em ciclo/tempo 1950
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+reconhecendo um paciente em ciclo/tempo 2100
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Joaquim Lopes
+idade: 59
+endereço: Campo Julia Jesus, 386
+Santa Amelia
+23952066 Correia da Praia / ES
+tipo de sangue: B-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 2100
+paciente Joaquim Lopes sendo liberado
+reconhecendo um paciente em ciclo/tempo 2250
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+reconhecendo um paciente em ciclo/tempo 2400
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+reconhecendo um paciente em ciclo/tempo 2550
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+reconhecendo um paciente em ciclo/tempo 2700
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Heitor Mendes
+idade: 36
+endereço: Distrito Oliveira, 5
+Boa Esperança
+46139514 Moraes / ES
+tipo de sangue: O-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 2700
+verificando situacao de emergencia em ciclo/tempo 2700
+verificando liberacao de paciente em ciclo/tempo 2701
+verificando situacao de emergencia em ciclo/tempo 2701
+paciente Heitor Mendes em situacao de emergencia
+verificando disponibilidade de sangue em ciclo/tempo 2701
+não tem sangue do tipo O- para o paciente Heitor Mendes
+verificando necessidade de UTI em ciclo/tempo 2702
+paciente Heitor Mendes necessita de UTI
+verificando liberacao de leito na UTI em ciclo/tempo 2703
+verificando liberacao de leito na UTI em ciclo/tempo 2704
+verificando liberacao de leito na UTI em ciclo/tempo 2705
+verificando liberacao de leito na UTI em ciclo/tempo 2706
+paciente Heitor Mendes sendo liberado da UTI
+reconhecendo um paciente em ciclo/tempo 2850
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Davi Vieira
+idade: 43
+endereço: Lagoa da Mata, 94
+Vila Santa Rosa
+93418181 Moraes da Serra / GO
+tipo de sangue: AB+
+histórico médico: []
+alergias conhecidas: []
+verificando situacao de emergencia em ciclo/tempo 2850
+verificando liberacao de paciente em ciclo/tempo 2850
+paciente Davi Vieira sendo liberado
+reconhecendo um paciente em ciclo/tempo 3000
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+reconhecendo um paciente em ciclo/tempo 3150
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+reconhecendo um paciente em ciclo/tempo 3300
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Murilo Oliveira
+idade: 100
+endereço: Campo Stephany Nunes, 86
+Conjunto Bonsucesso
+26108688 Barbosa de Azevedo / AL
+tipo de sangue: AB-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 3300
+paciente Murilo Oliveira sendo liberado
+reconhecendo um paciente em ciclo/tempo 3450
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Maria Fernanda Mendes
+idade: 83
+endereço: Feira Diego da Conceição, 74
+São Bento
+96900-410 Vieira Grande / RO
+tipo de sangue: AB-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 3450
+paciente Maria Fernanda Mendes sendo liberado
+reconhecendo um paciente em ciclo/tempo 3600
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Larissa Aragão
+idade: 94
+endereço: Recanto de Carvalho, 51
+Miramar
+95519856 Barros / MA
+tipo de sangue: O+
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 3600
+paciente Larissa Aragão sendo liberado
+reconhecendo um paciente em ciclo/tempo 3750
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Elisa Silveira
+idade: 18
+endereço: Setor de Fernandes, 7
+Liberdade
+49760-619 Moura do Norte / SP
+tipo de sangue: AB-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 3750
+paciente Elisa Silveira sendo liberado
+reconhecendo um paciente em ciclo/tempo 3900
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Lucca Jesus
+idade: 94
+endereço: Condomínio Carvalho, 975
+Maravilha
+63176-281 da Conceição / SC
+tipo de sangue: O-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 3900
+verificando situacao de emergencia em ciclo/tempo 3900
+paciente Lucca Jesus em situacao de emergencia
+verificando disponibilidade de sangue em ciclo/tempo 3900
+não tem sangue do tipo O- para o paciente Lucca Jesus
+verificando necessidade de UTI em ciclo/tempo 3901
+verificando necessidade de UTI em ciclo/tempo 3902
+verificando necessidade de UTI em ciclo/tempo 3903
+verificando necessidade de UTI em ciclo/tempo 3904
+verificando necessidade de UTI em ciclo/tempo 3905
+verificando necessidade de UTI em ciclo/tempo 3906
+verificando necessidade de UTI em ciclo/tempo 3907
+verificando necessidade de UTI em ciclo/tempo 3908
+verificando necessidade de UTI em ciclo/tempo 3909
+verificando necessidade de UTI em ciclo/tempo 3910
+verificando necessidade de UTI em ciclo/tempo 3911
+paciente Lucca Jesus necessita de UTI
+verificando liberacao de leito na UTI em ciclo/tempo 3912
+paciente Lucca Jesus sendo liberado da UTI
+reconhecendo um paciente em ciclo/tempo 4050
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Nicole Ribeiro
+idade: 31
+endereço: Favela de Ramos, 96
+Vila Paris
+06765-032 Lopes / MT
+tipo de sangue: B-
+histórico médico: []
+alergias conhecidas: []
+verificando situacao de emergencia em ciclo/tempo 4050
+verificando liberacao de paciente em ciclo/tempo 4050
+verificando situacao de emergencia em ciclo/tempo 4051
+paciente Nicole Ribeiro em situacao de emergencia
+verificando disponibilidade de sangue em ciclo/tempo 4051
+não tem sangue do tipo B- para o paciente Nicole Ribeiro
+verificando necessidade de UTI em ciclo/tempo 4052
+verificando necessidade de UTI em ciclo/tempo 4053
+verificando necessidade de UTI em ciclo/tempo 4054
+verificando necessidade de UTI em ciclo/tempo 4055
+paciente Nicole Ribeiro necessita de UTI
+reconhecendo um paciente em ciclo/tempo 4200
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Sra. Eloah da Rocha
+idade: 73
+endereço: Praia Moreira
+Andiroba
+50524-766 Correia da Serra / SE
+tipo de sangue: O+
+histórico médico: []
+alergias conhecidas: []
+verificando situacao de emergencia em ciclo/tempo 4200
+paciente Sra. Eloah da Rocha em situacao de emergencia
+verificando disponibilidade de sangue em ciclo/tempo 4200
+tem sangue do tipo O+ para o paciente Sra. Eloah da Rocha
+verificando necessidade de UTI em ciclo/tempo 4201
+verificando necessidade de UTI em ciclo/tempo 4202
+verificando necessidade de UTI em ciclo/tempo 4203
+verificando necessidade de UTI em ciclo/tempo 4204
+verificando necessidade de UTI em ciclo/tempo 4205
+verificando necessidade de UTI em ciclo/tempo 4206
+verificando necessidade de UTI em ciclo/tempo 4207
+verificando necessidade de UTI em ciclo/tempo 4208
+verificando necessidade de UTI em ciclo/tempo 4209
+verificando necessidade de UTI em ciclo/tempo 4210
+verificando necessidade de UTI em ciclo/tempo 4211
+verificando necessidade de UTI em ciclo/tempo 4212
+verificando necessidade de UTI em ciclo/tempo 4213
+verificando necessidade de UTI em ciclo/tempo 4214
+verificando necessidade de UTI em ciclo/tempo 4215
+verificando necessidade de UTI em ciclo/tempo 4216
+verificando necessidade de UTI em ciclo/tempo 4217
+verificando necessidade de UTI em ciclo/tempo 4218
+verificando necessidade de UTI em ciclo/tempo 4219
+paciente Sra. Eloah da Rocha necessita de UTI
+reconhecendo um paciente em ciclo/tempo 4350
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+verificando liberacao de leito na UTI em ciclo/tempo 4412
+paciente Nicole Ribeiro sendo liberado da UTI
+reconhecendo um paciente em ciclo/tempo 4500
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Eloah Vieira
+idade: 7
+endereço: Travessa da Cruz, 23
+Cdi Jatoba
+78921270 Porto / PI
+tipo de sangue: O+
+histórico médico: []
+alergias conhecidas: []
+verificando situacao de emergencia em ciclo/tempo 4500
+paciente Eloah Vieira em situacao de emergencia
+verificando disponibilidade de sangue em ciclo/tempo 4500
+tem sangue do tipo O+ para o paciente Eloah Vieira
+verificando necessidade de UTI em ciclo/tempo 4501
+verificando necessidade de UTI em ciclo/tempo 4502
+verificando necessidade de UTI em ciclo/tempo 4503
+paciente Eloah Vieira necessita de UTI
+reconhecendo um paciente em ciclo/tempo 4650
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Pedro Miguel Cardoso
+idade: 4
+endereço: Via de Araújo
+Dona Clara
+25794-934 da Rosa / ES
+tipo de sangue: AB-
+histórico médico: []
+alergias conhecidas: []
+verificando situacao de emergencia em ciclo/tempo 4650
+paciente Pedro Miguel Cardoso em situacao de emergencia
+verificando disponibilidade de sangue em ciclo/tempo 4650
+não tem sangue do tipo AB- para o paciente Pedro Miguel Cardoso
+verificando necessidade de UTI em ciclo/tempo 4651
+verificando necessidade de UTI em ciclo/tempo 4652
+verificando necessidade de UTI em ciclo/tempo 4653
+verificando necessidade de UTI em ciclo/tempo 4654
+verificando necessidade de UTI em ciclo/tempo 4655
+verificando necessidade de UTI em ciclo/tempo 4656
+verificando necessidade de UTI em ciclo/tempo 4657
+verificando necessidade de UTI em ciclo/tempo 4658
+verificando necessidade de UTI em ciclo/tempo 4659
+verificando necessidade de UTI em ciclo/tempo 4660
+verificando necessidade de UTI em ciclo/tempo 4661
+verificando necessidade de UTI em ciclo/tempo 4662
+verificando necessidade de UTI em ciclo/tempo 4663
+verificando necessidade de UTI em ciclo/tempo 4664
+verificando necessidade de UTI em ciclo/tempo 4665
+verificando necessidade de UTI em ciclo/tempo 4666
+verificando necessidade de UTI em ciclo/tempo 4667
+verificando necessidade de UTI em ciclo/tempo 4668
+verificando necessidade de UTI em ciclo/tempo 4669
+verificando necessidade de UTI em ciclo/tempo 4670
+verificando necessidade de UTI em ciclo/tempo 4671
+verificando necessidade de UTI em ciclo/tempo 4672
+verificando necessidade de UTI em ciclo/tempo 4673
+verificando necessidade de UTI em ciclo/tempo 4674
+verificando necessidade de UTI em ciclo/tempo 4675
+verificando necessidade de UTI em ciclo/tempo 4676
+verificando necessidade de UTI em ciclo/tempo 4677
+verificando necessidade de UTI em ciclo/tempo 4678
+verificando necessidade de UTI em ciclo/tempo 4679
+verificando necessidade de UTI em ciclo/tempo 4680
+verificando necessidade de UTI em ciclo/tempo 4681
+verificando necessidade de UTI em ciclo/tempo 4682
+verificando necessidade de UTI em ciclo/tempo 4683
+verificando necessidade de UTI em ciclo/tempo 4684
+verificando necessidade de UTI em ciclo/tempo 4685
+verificando necessidade de UTI em ciclo/tempo 4686
+verificando necessidade de UTI em ciclo/tempo 4687
+verificando necessidade de UTI em ciclo/tempo 4688
+verificando necessidade de UTI em ciclo/tempo 4689
+verificando necessidade de UTI em ciclo/tempo 4690
+verificando necessidade de UTI em ciclo/tempo 4691
+verificando necessidade de UTI em ciclo/tempo 4692
+verificando necessidade de UTI em ciclo/tempo 4693
+verificando necessidade de UTI em ciclo/tempo 4694
+verificando necessidade de UTI em ciclo/tempo 4695
+verificando necessidade de UTI em ciclo/tempo 4696
+verificando necessidade de UTI em ciclo/tempo 4697
+verificando necessidade de UTI em ciclo/tempo 4698
+verificando necessidade de UTI em ciclo/tempo 4699
+verificando necessidade de UTI em ciclo/tempo 4700
+verificando necessidade de UTI em ciclo/tempo 4701
+verificando necessidade de UTI em ciclo/tempo 4702
+verificando necessidade de UTI em ciclo/tempo 4703
+verificando necessidade de UTI em ciclo/tempo 4704
+verificando necessidade de UTI em ciclo/tempo 4705
+verificando necessidade de UTI em ciclo/tempo 4706
+verificando necessidade de UTI em ciclo/tempo 4707
+verificando necessidade de UTI em ciclo/tempo 4708
+verificando necessidade de UTI em ciclo/tempo 4709
+verificando disponibilidade de sangue em ciclo/tempo 4710
+verificando necessidade de UTI em ciclo/tempo 4710
+verificando disponibilidade de sangue em ciclo/tempo 4711
+verificando necessidade de UTI em ciclo/tempo 4711
+verificando disponibilidade de sangue em ciclo/tempo 4712
+verificando necessidade de UTI em ciclo/tempo 4712
+verificando disponibilidade de sangue em ciclo/tempo 4713
+verificando necessidade de UTI em ciclo/tempo 4713
+verificando disponibilidade de sangue em ciclo/tempo 4714
+verificando necessidade de UTI em ciclo/tempo 4714
+verificando disponibilidade de sangue em ciclo/tempo 4715
+verificando necessidade de UTI em ciclo/tempo 4715
+verificando disponibilidade de sangue em ciclo/tempo 4716
+verificando necessidade de UTI em ciclo/tempo 4716
+verificando disponibilidade de sangue em ciclo/tempo 4717
+verificando necessidade de UTI em ciclo/tempo 4717
+verificando disponibilidade de sangue em ciclo/tempo 4718
+verificando necessidade de UTI em ciclo/tempo 4718
+verificando disponibilidade de sangue em ciclo/tempo 4719
+verificando necessidade de UTI em ciclo/tempo 4719
+verificando disponibilidade de sangue em ciclo/tempo 4720
+verificando necessidade de UTI em ciclo/tempo 4720
+verificando disponibilidade de sangue em ciclo/tempo 4721
+verificando necessidade de UTI em ciclo/tempo 4721
+verificando disponibilidade de sangue em ciclo/tempo 4722
+verificando necessidade de UTI em ciclo/tempo 4722
+verificando disponibilidade de sangue em ciclo/tempo 4723
+verificando necessidade de UTI em ciclo/tempo 4723
+verificando disponibilidade de sangue em ciclo/tempo 4724
+verificando necessidade de UTI em ciclo/tempo 4724
+verificando disponibilidade de sangue em ciclo/tempo 4725
+verificando necessidade de UTI em ciclo/tempo 4725
+verificando disponibilidade de sangue em ciclo/tempo 4726
+verificando necessidade de UTI em ciclo/tempo 4726
+verificando disponibilidade de sangue em ciclo/tempo 4727
+verificando necessidade de UTI em ciclo/tempo 4727
+verificando disponibilidade de sangue em ciclo/tempo 4728
+verificando necessidade de UTI em ciclo/tempo 4728
+verificando disponibilidade de sangue em ciclo/tempo 4729
+verificando necessidade de UTI em ciclo/tempo 4729
+verificando disponibilidade de sangue em ciclo/tempo 4730
+verificando necessidade de UTI em ciclo/tempo 4730
+verificando disponibilidade de sangue em ciclo/tempo 4731
+verificando necessidade de UTI em ciclo/tempo 4731
+verificando disponibilidade de sangue em ciclo/tempo 4732
+verificando necessidade de UTI em ciclo/tempo 4732
+verificando disponibilidade de sangue em ciclo/tempo 4733
+verificando necessidade de UTI em ciclo/tempo 4733
+verificando disponibilidade de sangue em ciclo/tempo 4734
+verificando necessidade de UTI em ciclo/tempo 4734
+verificando disponibilidade de sangue em ciclo/tempo 4735
+verificando necessidade de UTI em ciclo/tempo 4735
+verificando disponibilidade de sangue em ciclo/tempo 4736
+verificando necessidade de UTI em ciclo/tempo 4736
+verificando disponibilidade de sangue em ciclo/tempo 4737
+verificando necessidade de UTI em ciclo/tempo 4737
+verificando disponibilidade de sangue em ciclo/tempo 4738
+verificando necessidade de UTI em ciclo/tempo 4738
+verificando disponibilidade de sangue em ciclo/tempo 4739
+verificando necessidade de UTI em ciclo/tempo 4739
+verificando disponibilidade de sangue em ciclo/tempo 4740
+verificando necessidade de UTI em ciclo/tempo 4740
+verificando disponibilidade de sangue em ciclo/tempo 4741
+verificando necessidade de UTI em ciclo/tempo 4741
+verificando disponibilidade de sangue em ciclo/tempo 4742
+verificando necessidade de UTI em ciclo/tempo 4742
+verificando disponibilidade de sangue em ciclo/tempo 4743
+verificando necessidade de UTI em ciclo/tempo 4743
+paciente Pedro Miguel Cardoso necessita de UTI
+reconhecendo um paciente em ciclo/tempo 4800
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Sra. Alexia Cunha
+idade: 70
+endereço: Núcleo Viana, 4
+Bairro Das Indústrias Ii
+03276673 da Cruz / MG
+tipo de sangue: AB+
+histórico médico: []
+alergias conhecidas: []
+verificando situacao de emergencia em ciclo/tempo 4800
+verificando liberacao de paciente em ciclo/tempo 4800
+paciente Sra. Alexia Cunha sendo liberado
+verificando liberacao de leito na UTI em ciclo/tempo 4912
+paciente Sra. Eloah da Rocha sendo liberado da UTI
+paciente Pedro Miguel Cardoso sendo liberado da UTI
+reconhecendo um paciente em ciclo/tempo 4950
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Alexandre da Rocha
+idade: 38
+endereço: Favela Melo, 11
+Outro
+87458251 Oliveira do Oeste / CE
+tipo de sangue: A-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 4950
+paciente Alexandre da Rocha sendo liberado
+reconhecendo um paciente em ciclo/tempo 5100
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Ian Gomes
+idade: 98
+endereço: Passarela Martins, 89
+Granja Werneck
+87988-023 Costela Paulista / MT
+tipo de sangue: A+
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 5100
+paciente Ian Gomes sendo liberado
+reconhecendo um paciente em ciclo/tempo 5250
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Pedro Henrique Teixeira
+idade: 29
+endereço: Recanto Maria Clara Silveira, 51
+Biquinhas
+82247234 Moraes de Ribeiro / TO
+tipo de sangue: B+
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 5250
+paciente Pedro Henrique Teixeira sendo liberado
+reconhecendo um paciente em ciclo/tempo 5400
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Bruno da Conceição
+idade: 65
+endereço: Colônia de Cardoso, 48
+Concórdia
+33519-344 Carvalho do Norte / PR
+tipo de sangue: A+
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 5400
+verificando situacao de emergencia em ciclo/tempo 5400
+paciente Bruno da Conceição em situacao de emergencia
+verificando disponibilidade de sangue em ciclo/tempo 5400
+não tem sangue do tipo A+ para o paciente Bruno da Conceição
+verificando necessidade de UTI em ciclo/tempo 5401
+verificando necessidade de UTI em ciclo/tempo 5402
+paciente Bruno da Conceição necessita de UTI
+reconhecendo um paciente em ciclo/tempo 5550
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Diogo Alves
+idade: 47
+endereço: Estação Campos, 76
+São Benedito
+02348676 Ferreira / SC
+tipo de sangue: A+
+histórico médico: []
+alergias conhecidas: []
+verificando situacao de emergencia em ciclo/tempo 5550
+verificando liberacao de paciente em ciclo/tempo 5550
+paciente Diogo Alves sendo liberado
+reconhecendo um paciente em ciclo/tempo 5700
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Maria Eduarda Silva
+idade: 99
+endereço: Condomínio da Luz, 16
+Carmo
+28130307 Ferreira das Pedras / PE
+tipo de sangue: A+
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 5700
+paciente Maria Eduarda Silva sendo liberado
+reconhecendo um paciente em ciclo/tempo 5850
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+verificando liberacao de leito na UTI em ciclo/tempo 5912
+paciente Eloah Vieira sendo liberado da UTI
+paciente Bruno da Conceição sendo liberado da UTI
+reconhecendo um paciente em ciclo/tempo 6000
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+reconhecendo um paciente em ciclo/tempo 6150
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Sra. Maria Clara Lima
+idade: 63
+endereço: Vale de Carvalho, 15
+Universo
+49498-768 Rezende / AP
+tipo de sangue: B-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 6150
+paciente Sra. Maria Clara Lima sendo liberado
+reconhecendo um paciente em ciclo/tempo 6300
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Lucca Rocha
+idade: 34
+endereço: Pátio de Teixeira, 45
+Mantiqueira
+70030935 Pires / AC
+tipo de sangue: A-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 6300
+paciente Lucca Rocha sendo liberado
+reconhecendo um paciente em ciclo/tempo 6450
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Bianca Viana
+idade: 55
+endereço: Ladeira Igor Almeida, 13
+Bandeirantes
+58121-009 Lopes de Dias / RS
+tipo de sangue: O+
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 6450
+paciente Bianca Viana sendo liberado
+reconhecendo um paciente em ciclo/tempo 6600
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+reconhecendo um paciente em ciclo/tempo 6750
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Vitor Gabriel Costela
+idade: 46
+endereço: Viela da Rocha, 59
+Bernadete
+54426-593 Lopes de Dias / RR
+tipo de sangue: AB-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 6750
+verificando situacao de emergencia em ciclo/tempo 6750
+verificando liberacao de paciente em ciclo/tempo 6751
+verificando situacao de emergencia em ciclo/tempo 6751
+paciente Vitor Gabriel Costela em situacao de emergencia
+verificando disponibilidade de sangue em ciclo/tempo 6751
+não tem sangue do tipo AB- para o paciente Vitor Gabriel Costela
+verificando necessidade de UTI em ciclo/tempo 6752
+verificando necessidade de UTI em ciclo/tempo 6753
+verificando necessidade de UTI em ciclo/tempo 6754
+verificando necessidade de UTI em ciclo/tempo 6755
+verificando necessidade de UTI em ciclo/tempo 6756
+verificando necessidade de UTI em ciclo/tempo 6757
+verificando necessidade de UTI em ciclo/tempo 6758
+verificando necessidade de UTI em ciclo/tempo 6759
+verificando necessidade de UTI em ciclo/tempo 6760
+verificando necessidade de UTI em ciclo/tempo 6761
+verificando necessidade de UTI em ciclo/tempo 6762
+verificando necessidade de UTI em ciclo/tempo 6763
+verificando necessidade de UTI em ciclo/tempo 6764
+verificando necessidade de UTI em ciclo/tempo 6765
+verificando necessidade de UTI em ciclo/tempo 6766
+verificando necessidade de UTI em ciclo/tempo 6767
+verificando necessidade de UTI em ciclo/tempo 6768
+verificando necessidade de UTI em ciclo/tempo 6769
+verificando necessidade de UTI em ciclo/tempo 6770
+verificando necessidade de UTI em ciclo/tempo 6771
+verificando necessidade de UTI em ciclo/tempo 6772
+verificando necessidade de UTI em ciclo/tempo 6773
+verificando necessidade de UTI em ciclo/tempo 6774
+verificando necessidade de UTI em ciclo/tempo 6775
+verificando necessidade de UTI em ciclo/tempo 6776
+verificando necessidade de UTI em ciclo/tempo 6777
+paciente Vitor Gabriel Costela necessita de UTI
+reconhecendo um paciente em ciclo/tempo 6900
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Cecília Almeida
+idade: 85
+endereço: Setor Jesus
+Santo Antônio
+85164569 Almeida da Praia / SP
+tipo de sangue: O-
+histórico médico: []
+alergias conhecidas: []
+verificando situacao de emergencia em ciclo/tempo 6900
+paciente Cecília Almeida em situacao de emergencia
+verificando disponibilidade de sangue em ciclo/tempo 6900
+não tem sangue do tipo O- para o paciente Cecília Almeida
+verificando necessidade de UTI em ciclo/tempo 6901
+verificando necessidade de UTI em ciclo/tempo 6902
+verificando necessidade de UTI em ciclo/tempo 6903
+verificando necessidade de UTI em ciclo/tempo 6904
+verificando necessidade de UTI em ciclo/tempo 6905
+verificando necessidade de UTI em ciclo/tempo 6906
+verificando necessidade de UTI em ciclo/tempo 6907
+verificando necessidade de UTI em ciclo/tempo 6908
+verificando necessidade de UTI em ciclo/tempo 6909
+verificando necessidade de UTI em ciclo/tempo 6910
+paciente Cecília Almeida necessita de UTI
+verificando liberacao de leito na UTI em ciclo/tempo 6912
+verificando liberacao de leito na UTI em ciclo/tempo 6913
+paciente Vitor Gabriel Costela sendo liberado da UTI
+reconhecendo um paciente em ciclo/tempo 7050
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Sr. Murilo da Luz
+idade: 48
+endereço: Lagoa Paulo Mendes, 37
+Vila Do Pombal
+74545-295 Rocha / MA
+tipo de sangue: A-
+histórico médico: []
+alergias conhecidas: []
+verificando situacao de emergencia em ciclo/tempo 7050
+paciente Sr. Murilo da Luz em situacao de emergencia
+verificando disponibilidade de sangue em ciclo/tempo 7050
+não tem sangue do tipo A- para o paciente Sr. Murilo da Luz
+verificando necessidade de UTI em ciclo/tempo 7051
+verificando necessidade de UTI em ciclo/tempo 7052
+verificando necessidade de UTI em ciclo/tempo 7053
+verificando necessidade de UTI em ciclo/tempo 7054
+verificando necessidade de UTI em ciclo/tempo 7055
+verificando necessidade de UTI em ciclo/tempo 7056
+verificando necessidade de UTI em ciclo/tempo 7057
+verificando necessidade de UTI em ciclo/tempo 7058
+verificando necessidade de UTI em ciclo/tempo 7059
+verificando necessidade de UTI em ciclo/tempo 7060
+verificando necessidade de UTI em ciclo/tempo 7061
+verificando necessidade de UTI em ciclo/tempo 7062
+paciente Sr. Murilo da Luz necessita de UTI
+reconhecendo um paciente em ciclo/tempo 7200
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+reconhecendo um paciente em ciclo/tempo 7350
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Heitor Cardoso
+idade: 85
+endereço: Favela João Felipe Viana
+Monsenhor Messias
+74205539 Santos do Sul / PE
+tipo de sangue: A+
+histórico médico: []
+alergias conhecidas: []
+verificando situacao de emergencia em ciclo/tempo 7350
+paciente Heitor Cardoso em situacao de emergencia
+verificando disponibilidade de sangue em ciclo/tempo 7350
+não tem sangue do tipo A+ para o paciente Heitor Cardoso
+verificando necessidade de UTI em ciclo/tempo 7351
+verificando necessidade de UTI em ciclo/tempo 7352
+verificando necessidade de UTI em ciclo/tempo 7353
+verificando necessidade de UTI em ciclo/tempo 7354
+verificando necessidade de UTI em ciclo/tempo 7355
+verificando necessidade de UTI em ciclo/tempo 7356
+verificando necessidade de UTI em ciclo/tempo 7357
+verificando necessidade de UTI em ciclo/tempo 7358
+verificando necessidade de UTI em ciclo/tempo 7359
+verificando necessidade de UTI em ciclo/tempo 7360
+verificando necessidade de UTI em ciclo/tempo 7361
+verificando necessidade de UTI em ciclo/tempo 7362
+verificando necessidade de UTI em ciclo/tempo 7363
+verificando necessidade de UTI em ciclo/tempo 7364
+verificando necessidade de UTI em ciclo/tempo 7365
+verificando necessidade de UTI em ciclo/tempo 7366
+verificando necessidade de UTI em ciclo/tempo 7367
+verificando necessidade de UTI em ciclo/tempo 7368
+verificando necessidade de UTI em ciclo/tempo 7369
+verificando necessidade de UTI em ciclo/tempo 7370
+verificando necessidade de UTI em ciclo/tempo 7371
+verificando necessidade de UTI em ciclo/tempo 7372
+verificando necessidade de UTI em ciclo/tempo 7373
+verificando necessidade de UTI em ciclo/tempo 7374
+verificando necessidade de UTI em ciclo/tempo 7375
+verificando necessidade de UTI em ciclo/tempo 7376
+verificando necessidade de UTI em ciclo/tempo 7377
+verificando necessidade de UTI em ciclo/tempo 7378
+verificando necessidade de UTI em ciclo/tempo 7379
+verificando necessidade de UTI em ciclo/tempo 7380
+verificando necessidade de UTI em ciclo/tempo 7381
+paciente Heitor Cardoso necessita de UTI
+verificando liberacao de leito na UTI em ciclo/tempo 7413
+paciente Cecília Almeida sendo liberado da UTI
+paciente Sr. Murilo da Luz sendo liberado da UTI
+paciente Heitor Cardoso sendo liberado da UTI
+reconhecendo um paciente em ciclo/tempo 7500
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+reconhecendo um paciente em ciclo/tempo 7650
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+reconhecendo um paciente em ciclo/tempo 7800
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+reconhecendo um paciente em ciclo/tempo 7950
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Cauê da Paz
+idade: 78
+endereço: Chácara Luiza Fernandes, 62
+Barão Homem De Melo 2ª Seção
+33838928 Melo de das Neves / DF
+tipo de sangue: B+
+histórico médico: []
+alergias conhecidas: []
+verificando situacao de emergencia em ciclo/tempo 7950
+verificando liberacao de paciente em ciclo/tempo 7950
+paciente Cauê da Paz sendo liberado
+reconhecendo um paciente em ciclo/tempo 8100
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Evelyn Nogueira
+idade: 66
+endereço: Distrito Santos, 4
+Santa Amelia
+75973973 Azevedo Verde / AM
+tipo de sangue: B-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 8100
+verificando situacao de emergencia em ciclo/tempo 8100
+verificando liberacao de paciente em ciclo/tempo 8101
+paciente Evelyn Nogueira sendo liberado
+reconhecendo um paciente em ciclo/tempo 8250
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Thiago da Mota
+idade: 96
+endereço: Recanto de Moreira, 9
+Vila Santo Antônio
+22488434 Caldeira de Cardoso / CE
+tipo de sangue: A-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 8250
+paciente Thiago da Mota sendo liberado
+reconhecendo um paciente em ciclo/tempo 8400
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Luiz Henrique Carvalho
+idade: 56
+endereço: Trevo Maitê Monteiro, 185
+Graça
+07216-454 Souza / RO
+tipo de sangue: A-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 8400
+paciente Luiz Henrique Carvalho sendo liberado
+reconhecendo um paciente em ciclo/tempo 8550
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+reconhecendo um paciente em ciclo/tempo 8700
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Nathan Nascimento
+idade: 58
+endereço: Esplanada Correia, 33
+Minas Caixa
+66989-904 Aragão de Moraes / PE
+tipo de sangue: O+
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 8700
+verificando situacao de emergencia em ciclo/tempo 8700
+verificando liberacao de paciente em ciclo/tempo 8701
+verificando situacao de emergencia em ciclo/tempo 8701
+verificando liberacao de paciente em ciclo/tempo 8702
+paciente Nathan Nascimento sendo liberado
+reconhecendo um paciente em ciclo/tempo 8850
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Gabriel Fogaça
+idade: 39
+endereço: Ladeira de Aragão, 40
+Bacurau
+62693-612 Peixoto de da Conceição / PI
+tipo de sangue: B+
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 8850
+verificando situacao de emergencia em ciclo/tempo 8850
+verificando liberacao de paciente em ciclo/tempo 8851
+paciente Gabriel Fogaça sendo liberado
+reconhecendo um paciente em ciclo/tempo 9000
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Luiz Gustavo Silveira
+idade: 58
+endereço: Vale de da Luz, 31
+Vila Engenho Nogueira
+76249-688 Moura da Serra / RJ
+tipo de sangue: AB+
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 9000
+paciente Luiz Gustavo Silveira sendo liberado
+reconhecendo um paciente em ciclo/tempo 9150
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Dra. Valentina Cardoso
+idade: 79
+endereço: Via de Barbosa, 5
+Mariano De Abreu
+17410809 Fogaça / PE
+tipo de sangue: O+
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 9150
+paciente Dra. Valentina Cardoso sendo liberado
+reconhecendo um paciente em ciclo/tempo 9300
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Bruna Azevedo
+idade: 53
+endereço: Colônia de Moreira, 74
+Concórdia
+96481-688 Barros da Serra / RO
+tipo de sangue: AB+
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 9300
+verificando situacao de emergencia em ciclo/tempo 9300
+verificando liberacao de paciente em ciclo/tempo 9301
+verificando situacao de emergencia em ciclo/tempo 9301
+verificando liberacao de paciente em ciclo/tempo 9302
+verificando situacao de emergencia em ciclo/tempo 9302
+verificando liberacao de paciente em ciclo/tempo 9303
+paciente Bruna Azevedo sendo liberado
+reconhecendo um paciente em ciclo/tempo 9450
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Gabrielly Cardoso
+idade: 11
+endereço: Sítio de Martins, 4
+Bela Vitoria
+40187475 das Neves / RS
+tipo de sangue: B-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 9450
+paciente Gabrielly Cardoso sendo liberado
+reconhecendo um paciente em ciclo/tempo 9600
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente
+reconhecendo um paciente em ciclo/tempo 9750
+iniciando reconhecimento de paciente...
+um paciente foi reconhecido, imprimindo o prontuário...
+nome: Carolina Teixeira
+idade: 38
+endereço: Trevo Emanuella Silva, 661
+Solar Do Barreiro
+68943-976 Aragão / RR
+tipo de sangue: A-
+histórico médico: []
+alergias conhecidas: []
+verificando liberacao de paciente em ciclo/tempo 9750
+verificando situacao de emergencia em ciclo/tempo 9750
+verificando liberacao de paciente em ciclo/tempo 9751
+verificando situacao de emergencia em ciclo/tempo 9751
+verificando liberacao de paciente em ciclo/tempo 9752
+verificando situacao de emergencia em ciclo/tempo 9752
+verificando liberacao de paciente em ciclo/tempo 9753
+paciente Carolina Teixeira sendo liberado
+reconhecendo um paciente em ciclo/tempo 9900
+iniciando reconhecimento de paciente...
+não foi reconhecido um paciente

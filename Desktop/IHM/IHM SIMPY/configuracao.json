@@ -1,0 +1,34 @@
+{
+    "versao": "0.1",
+    "identificacao": [
+        {
+            "nome": "?",
+            "idade": 0,
+            "turma": "?", 
+            "fotos": [
+                "faces/elliot1.jpg",
+                "faces/elliot2.jpg",
+                "faces/elliot3.jpg"
+            ],
+            "ano": "?"
+            ,
+            "turno": "?"
+            
+        },
+        {
+            "nome": "?",
+            "idade": 0,
+            "turma": "?", 
+            "fotos": [
+                "faces/darlene1.jpg",
+                "faces/darlene2.jpg",
+                "faces/darlene3.jpg"
+            ],
+            "ano":"?" 
+            ,
+            "turno": "?",
+            "valor": "?",
+            "produto":"?"
+        }                
+    ]
+}
